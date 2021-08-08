@@ -1,6 +1,10 @@
 # Cleric
 
-(TODO: Fluff)
+Clerics are the people who dedicated their lives to serve a deity. Wherever they go, they seek to protect the weak, provide spiritual help, heal wounded people, and destroy undead - which they see as the beings of pure evil. Their holy power comes from their immense faith, and as they strenghten their beliefs and practice their powers, they become able to effectively perform miracles in form of divine magic. Not only that
+
+All clerics, no matter the faith, have a holy symbol. They are known to carry it with them, and it helps them to channel the holy power.
+
+Note that this class is designed around serving the forces of life - see [Dark Cleric](dark_cleric) for the death-focused counterpart.
 
 ## Equipment
 
@@ -12,7 +16,7 @@ All Clerics start with a free holy symbol.
 
 * By channeling holy power, clerics have the ability to repel undead - that is to make undead flee. Whenever cleric wishes to use this ability, they make an unmodified d20 roll to determine the max level of turned undead. The required minimum roll is based on the cleric's level and is listed in the table below. Empty value means that the undead of this level are too strong to be repelled. This ability can be used only once per minute.
 
-* Starting from level 2, clerics gain the ability to cast divine spells. Clerics prepare their spells through daily prayer, and they can prepare 
+* Starting from level 2, clerics gain the ability to cast divine spells. Clerics prepare their spells through daily prayer, and they can prepare any spells
 
 ## Progression charts
 

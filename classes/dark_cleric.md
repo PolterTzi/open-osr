@@ -1,12 +1,12 @@
 # Dark Cleric
 
-(TODO: Fluff)
+Not every 
 
 ## Equipment
 
-Clerics can use any simple or martial weapon and any armor effectively, but using non-blunt weaponry is an anathema to them and will result in losing access to the their special abilities until atonement.
+Dark clerics can use any simple or martial weapon and any armor effectively, but using non-blunt weaponry is an anathema to them and will result in losing access to the their special abilities until atonement.
 
-All Clerics start with a free holy symbol.
+All Dark clerics start with a free holy symbol.
 
 ## Special Abilities
 

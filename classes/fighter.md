@@ -1,7 +1,6 @@
 # Fighter
 
-(TODO: More fluff)
-Fighters specialize in physical combat - they are precise with their weapons, and very resistant to most forms of damage. While at the first glance their abilities seem mundane, in practice their skill with weapon is  extraordinary and is unmatched by any other class.
+Fighters specialize in physical combat - they are precise with their weapons, and very resistant to most forms of damage. While at the first glance their abilities seem mundane, in practice their skill with weapon is extraordinary and is unmatched by any other class.
 
 ## Equipment
 

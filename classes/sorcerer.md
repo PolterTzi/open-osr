@@ -4,9 +4,7 @@ Most magic-users learned how to utilize magic through years of study - but Sorce
 
 ## Equipment
 
-Sorcerer are only proficient with simple weapons. They can wear armor, but even the light armor interferes with movement needed for magic enough to prevent spellcasting abilities from working.
-
-All Wizards start with a free spellbook with a single Tier 1 spell in it.
+Sorcerer are only proficient with simple weapons - lack of training gives them a -4 penalty to attack rolls. They can wear armor, but even the light armor interferes with movement needed for magic enough to prevent spellcasting abilities from working.
 
 ## Class abilities
 
