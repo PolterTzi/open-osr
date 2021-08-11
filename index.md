@@ -13,11 +13,11 @@ This system follows the ideas of the Old School Renaissance, and should be compa
 ## Table of contents
 
 * Rules
-    * [Character creation](rules/Character%20Creation)
-    * [Equipment](rules/Equipment)
-    * [Combat](rules/Combat)
-    * [Exploration](rules/Exploration)
-    * [Downtime](rules/Downtime)
+    * [Character creation](rules/character_creation)
+    * [Equipment](rules/equipment)
+    * [Combat](rules/combat)
+    * [Exploration](rules/exploration)
+    * [Downtime](rules/downtime)
 * [Classes](classes/index)
 * [Races](races/index)
 * [Spells](spells/index)
