@@ -6,6 +6,8 @@ OpenOSR is an open-source RPG system, based on the BX edition of the world's mos
 
 This system follows the ideas of the Old School Renaissance, and should be compatibile with most OSR content available. Some of this content may require conversions - but these should be easily done on the fly.
 
+> **Designer Commentary**: When reading the OpenOSR ruleset, you may encounter blocks like these. Designer Commentary blocks are not rules - they only explain the rationale for some design decisions, or provide context in relation to the original games.
+
 ## How to start playing
 
 (TODO)
@@ -18,7 +20,8 @@ This system follows the ideas of the Old School Renaissance, and should be compa
     * [Combat](rules/combat)
     * [Exploration](rules/exploration)
     * [Downtime](rules/downtime)
+    * [Advancement](rules/advancement)
 * [Classes](classes/index)
 * [Races](races/index)
 * [Spells](spells/index)
-* [Rules](monsters/index)
+* [Monsters](monsters/index)

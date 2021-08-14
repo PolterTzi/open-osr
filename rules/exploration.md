@@ -42,4 +42,4 @@ Encumbered characters move at half the normal rate.
 
 ## Encounters
 
-During exploration periods the adventuring party will often encounter other living beings. They may be some kind of travellers, animals, bandits, monsters - and rarely even a different adventurer party! Whenever an encounter happens, GM will roll for each side whether you noticed each other, as well as roll for the reaction. In many cases you will be able to avoid combat
+During exploration periods the adventuring party will often encounter other living beings. They may be some kind of travellers, animals, bandits, monsters - and rarely even a different adventurer party! Whenever an encounter happens, GM will roll for each side whether you noticed each other, as well as roll for the reaction. In many cases you will be able to avoid combat, either via a diplomatic approach or a simple evasive action.

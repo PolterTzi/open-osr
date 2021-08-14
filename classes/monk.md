@@ -2,6 +2,10 @@
 
 The monks are rarely found wanderers, the ascets seeking to discard the need for the earthly desires. Through meditation and physical training they seek to surpass the limitations of their physical self, and seek the ability to combine their soul with their body.
 
+> **Designer Commentary**: In most interpretations of this class Monks are "just" the spiritual martial artists - likely also being able to use Ki to perform what is effectively casting reflavored spells. Here I decided to push this class in a slightly different direction - the ascets trying to reach true perfection.
+> 
+> Due to how the bulk of experience is awarded through treasure, it is advised that no more than a single Monk will travel in a single party.
+
 ## Equipment
 
 Monks beliefs forbid them from having more equipment than they need. The following rules are used:

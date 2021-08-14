@@ -4,13 +4,13 @@ Clerics are the people who dedicated their lives to serve a deity. Wherever they
 
 All clerics, no matter the faith, have a holy symbol. They are known to carry it with them, and it helps them to channel the holy power.
 
-Note that this class is designed around serving the forces of life - see [Dark Cleric](dark_cleric) for the death-focused counterpart.
+Note that this class is designed around serving the forces of light and life - see [Dark Cleric](dark_cleric) for the more sinister counterpart to this class.
 
 ## Equipment
 
 Clerics can use any simple or martial weapon and any armor effectively, but using non-blunt weaponry is an anathema to them and will result in losing access to the their special abilities until atonement.
 
-All Clerics start with a free holy symbol.
+All Clerics start with a free holy symbol related to their beliefs.
 
 ## Special Abilities
 

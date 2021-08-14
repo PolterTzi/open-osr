@@ -1,33 +1,35 @@
 # Dark Cleric
 
-Not every 
+Not every Cleric worships the same powers - and definitely not every Cleric worships the powers of light and life. Some Clerics worship much more sinister powers, granting them a different set of powers and moral obligations, and as such they are called the Dark Clerics.
+
+Not every Dark Cleric is 
 
 ## Equipment
 
-Dark clerics can use any simple or martial weapon and any armor effectively, but using non-blunt weaponry is an anathema to them and will result in losing access to the their special abilities until atonement.
+Dark clerics can use any simple or martial weapon and any armor effectively, including the slashing and piercing weapons.
 
-All Dark clerics start with a free holy symbol.
+All Dark clerics start with a free holy symbol related to their beliefs.
 
 ## Special Abilities
 
-* By channeling holy power, clerics have the ability to repel undead - that is to make undead flee. Whenever cleric wishes to use this ability, they make an unmodified d20 roll to determine the max level of turned undead. The required minimum roll is based on the cleric's level and is listed in the table below. Empty value means that the undead of this level are too strong to be repelled. This ability can be used only once per minute.
+* By channeling holy power, Dark Clerics have the ability to repel undead - that is to make undead flee. Whenever the Dark Cleric wishes to use this ability, they make an unmodified d20 roll to determine the max level of turned undead. The required minimum roll is based on the cleric's level and is listed in the table below. Empty value means that the undead of this level are too strong to be repelled. This ability can be used only once per minute.
 
-* Starting from level 2, clerics gain the ability to cast divine spells. Clerics prepare their spells through daily prayer, and they can prepare 
+* Starting from level 2, clerics gain the ability to cast dark divine spells. 
 
 ## Progression charts
 
 |Level|XP|HP|Attack|Body Save|Reflex Save|Magic Save|
 |-|-|-|-|-|-|-|
-|1|0|6|+0|+3|+1|+4|
-|2|1500|9|+1|+4|+1|+5|
+|1|0|6|+0|+4|+1|+3|
+|2|1500|9|+1|+5|+1|+4|
 |3|3000|12|+2|+5|+2|+5|
-|4|6000|15|+2|+5|+2|+6|
+|4|6000|15|+2|+6|+2|+5|
 |5|12000|18|+3|+6|+2|+6|
 |6|25000|21|+4|+7|+3|+7|
-|7|50000|24|+4|+7|+3|+8|
+|7|50000|24|+4|+8|+3|+7|
 |8|100000|27|+5|+8|+3|+8|
-|9|200000|30|+6|+8|+4|+9|
-|10|400000|33|+6|+9|+4|+10|
+|9|200000|30|+6|+9|+4|+8|
+|10|400000|33|+6|+10|+4|+9|
 
 ### Spell slots
 
