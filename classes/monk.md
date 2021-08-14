@@ -84,6 +84,7 @@ Certain races are subject to lower experience level limit, which in turn means t
 ### Merging the soul and body
 
 After merging their soul and body, the Monk counts as a level 11 character, with the following statistics:
+
 |HP|Attack|Body Save|Reflex Save|Magic Save|Unarmed Attacks|AC|
 |-|-|-|-|-|-|-|
 |36|+9|+10|+10|+10|4x, +3|21|
