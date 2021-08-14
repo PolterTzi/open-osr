@@ -49,7 +49,7 @@ The monk's starting gold is reduced to `3d3` gp.
 |7|80000|24|+5|+6|+5|+5|4x, +2|17|No sleep necessary|
 |8|160000|27|+6|+7|+6|+6|4x, +3|18|No aging|
 |9|320000|30|+7|+8|+7|+7|4x, +3|19|Can heal self 2/day|
-|10|640000|33|+8|+9|+8|+8|4x, +3|20|Can attempt to merge soul and body|### 
+|10|640000|33|+8|+9|+8|+8|4x, +3|20|Can attempt to merge soul and body|
 
 ### Chance of success for thief skills
 
