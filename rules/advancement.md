@@ -12,7 +12,7 @@ There are several ways to earn the XP.
 
 ### Treasure
 
-The main source of experience points is gaining treasure. Each gp gained through adventuring equals 1 XP. The adventuring party has to bring the treasure to a safe place to be able to claim it as their own and gain experience this way. Not every coin earned counts through - the characters have to put some effort and usually also risk their lives to actually earn the experience. Money gained through mundane work doesn't count, as well as magical treasure - even if sold.
+The main source of experience points is gaining treasure. Each gc gained through adventuring equals 1 XP. The adventuring party has to bring the treasure to a safe place to be able to claim it as their own and gain experience this way. Not every coin earned counts through - the characters have to put some effort and usually also risk their lives to actually earn the experience. Money gained through mundane work doesn't count, as well as magical treasure - even if sold.
 
 ### Defeating enemies
 

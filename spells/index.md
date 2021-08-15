@@ -30,11 +30,11 @@ To register a new spell into the spellbook, one has to research the spell. Doing
 
 |Spell Tier|Cost|Time|
 |-|-|-|
-|1|1000gp|1 week|
-|2|2000gp|2 weeks|
-|3|4000gp|3 weeks|
-|4|6000gp|4 weeks|
-|5|10000gp|6 weeks|
+|1|1000gc|1 week|
+|2|2000gc|2 weeks|
+|3|4000gc|3 weeks|
+|4|6000gc|4 weeks|
+|5|10000gc|6 weeks|
 
 ## Lists of spells
 

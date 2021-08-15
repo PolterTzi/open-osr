@@ -14,13 +14,13 @@ Monks beliefs forbid them from having more equipment than they need. The followi
 * The monk is allowed to carry at most a single day worth of food and water at any given time.
 * The monk is allowed to carry a single holy symbol of their faith.
 * The monk may not carry nor use any magic items. They are still allowed to be a target of spells and magic items - for example, they are allowed to drink a healing potion given to them by someone else.
-* The monk may carry up to 10 gp in money.
+* The monk may carry up to 10 gc in money.
 * If multiclassing with a spellcasting class, they may carry and use a single spellbook with them, but only if it is necessary to prepare and cast spells.
 * The monk may not have any possessions of his own outside of what they carry with themselves, nor they may possess anything not listed above - not even the sources of light.
 
 Breaking the rules above will result in the loss of class abilities that are marked as `[Spiritual]` and halt the class progression - additionally, any XP gained in this class will be wasted until the atonement - see **Monk's Atonement** in the Special Rules section below.
 
-The monk's starting gold is reduced to `3d3` gp.
+The monk's starting gold is reduced to `3d3` gc.
 
 ## Class abilities
 
