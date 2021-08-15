@@ -18,7 +18,7 @@ Monks beliefs forbid them from having more equipment than they need. The followi
 * If multiclassing with a spellcasting class, they may carry and use a single spellbook with them, but only if it is necessary to prepare and cast spells.
 * The monk may not have any possessions of his own outside of what they carry with themselves, nor they may possess anything not listed above - not even the sources of light.
 
-Breaking the rules above will result in the loss of class abilities that are marked as `[Spiritual]` and halt the class progression - additionally, any XP gained in this class will be wasted until the atonement - see **Monk's Atonement** in the Special Rules section below.
+Breaking the rules above will result in the loss of class abilities that are marked as `[Spiritual]` and halt the class progression with any XP gained in this class wasted until the atonement - see **Monk's Atonement** in the Special Rules section below.
 
 The monk's starting gold is reduced to `3d3` gc.
 
@@ -29,7 +29,7 @@ The monk's starting gold is reduced to `3d3` gc.
 * `[Spiritual]` Starting from level 2, Monks' unarmed attacks count as attacks made using a silver weapon for the purposes of overcoming the resistances only.
 * `[Spiritual]` Starting from level 2, Monks need only half as much food and water as a normal person would to survive. At level 6, Monks stop to have any need for food and water whatsoever - they can surive without them without any penalties.
 * `[Spiritual]` Starting from level 3, Monks can't be forced to break their ascetic lifestyle through magical means. Any magical enchantments, such as Charm Person, Geas, or Quest will be instantly broken if they would result in the Monk gaining unnecessary possesions.
-* Starting from level 3, Monks gain the ability to make an unarmed attack twice in a single turn. The amount of unarmed attacks per turn three at level 5, and four at level 7.
+* Starting from level 3, Monks gain the ability to make an unarmed attack twice in a single turn. The amount of unarmed attacks per turn increases to three at level 5, and four at level 7.
 * `[Spiritual]` Starting from level 4, Monks' unarmed attacks count as attacks made using a +1 weapon for the purposes of overcoming the resistances only. This improves to +2 at level 6, and to +3 at level 8.
 * `[Spiritual]` Starting from level 4 Monks need only the half of the normal amount of sleep to be well rested. At level 8 they no longer need sleep at all.
 * `[Spiritual]` Starting from level 5 Monks gain the ability to heal themselves once per day. To do so, they need to meditate for several minutes. The amount of HP they heal is equal to `1d6+level`, and additionally using this ability has a 50% chance to heal any diseases they may have (roll for each disease separately). At level 9 they can use this ability twice per day.
@@ -98,6 +98,8 @@ Certain races are subject to lower experience level limit, which in turn means t
 
 ### Merging the soul and body
 
+(TODO: how to)
+
 After merging their soul and body, the Monk counts as a level 11 character, with the following statistics:
 
 |HP|Attack|Body Save|Reflex Save|Magic Save|Unarmed Attacks|AC|
@@ -114,7 +116,12 @@ Additionally, they gain following traits:
 
 * They can't be damaged through non-magical means.
 * They can regenerate all damage taken through a 24 hour long meditation.
-* They become immune to any poisons and diseases.
-* They become immune to any mind altering effects.
+* They gain immunity to the following effects:
+    * poison
+    * disease
+    * mind altering effects
+    * instant death
+    * energy drain
+* A single effect or attack can no longer deal more than 10 damage at one time to them.
 * They become physically and mentally unable to have any possessions except for the simple clothing they have worn during the ritual. They can't break this rule - not even consciously.
 * After death, their soul will be destroyed - as such, they can't be resurrected via any means.
