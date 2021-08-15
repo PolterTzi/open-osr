@@ -4,7 +4,10 @@ Character creation is meant to be simple and fast, yet still providing meaningfu
 
 ## Step 1: Roll for your boon and bane
 
-Roll
+> **Designer Commentary**: The original games used a set of 6 ability scores, that provided various modifiers. Depending on which exact edition you are using, the effect of these ability scores could be more or less noticeable - but it always felt like rolling a low power character sucks, especially if the player next to you was lucky enough to roll two 18s while rolling 3d6 for each stat. I've decided to ditch the stats, and instead make the players roll for a specific bonus and penalty. This provides a decent way to differentiate characters in a simple way, while still being reasonably balanced - even if there are still more desirable and less desirable results on this table.
+
+Roll d12 twice. The result of the first roll determines your boon, and the result of the second roll determines your bane, each providing you with a small modifier. If you roll the same value on both dice, the boon and bane cancel each other.
+
 |result on d12|Boon|Bane|
 |-|-|-|
 |1|HP +2|HP -2|
@@ -17,11 +20,15 @@ Roll
 |8|Reflex Save +1|Reflex Save -1|
 |9|Magic Save +1|Magic Save -1|
 |10|+1 bonus language|-1 bonus language|
-|11|Melee attack bonus +1|Melee attack bonus +1|
-|12|Ranged attack bonus +1|Ranged attack bonus +1|
+|11|Melee attack bonus +1|Melee attack bonus -1|
+|12|Ranged attack bonus +1|Ranged attack bonus -1|
 
 ## Step 2: Choose your race and class
 
+Choose a desired 
+
 ## Step 3: Choose class features, if necessary
+
+Some classes require you to make an additional choice for your character. Usually this comes into play for the spellcasting classes, such as Wizard, that have to determine their starting spell.
 
 ## Step 4: Determine your starting equipment

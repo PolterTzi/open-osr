@@ -70,7 +70,22 @@ The monk's starting gold is reduced to `3d3` gp.
 
 ### Monk's atonement
 
-The atonement first requires the monk to discard their unnecessary possesions
+The atonement first requires the monk to discard their unnecessary possesions, then to meditate for a longer period of time, specified in days. Each day requires 8 hours of meditation. Taking even a single day of break resets the progress. The Monk can double the progress by spending 16 hours on meditation each day, and quadruple it by spending entire 24 hours of the day on the meditation itself.
+
+The amount of meditation days required depends on the level of the Monk, as shown on the table below:
+
+|Level|Meditation days|
+|-|-|
+|1|3 days|
+|2|7 days|
+|3|14 days|
+|4|20 days|
+|5|30 days|
+|6|60 days|
+|7|90 days|
+|8|120 days|
+|9|180 days|
+|10|365 days|
 
 ### Breaking the level cap
 

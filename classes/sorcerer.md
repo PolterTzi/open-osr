@@ -1,6 +1,6 @@
 # Sorcerer
 
-Most magic-users learned how to utilize magic through years of study - but Sorcerers' ability to use magic is innate. They naturally know how to control the flow of magic, which makes prior preparation of spells unnecessary. While this is a massive advantage, it also comes with some disadvantages. Due to their lack of training, they can't read nor write magical scrolls, nor they can't use spellbooks. They also can't have as many spells as the Wizards in their repetitoire.
+At a first glance, Sorcerers are similar to Wizards - they also had to study magic 
 
 ## Equipment
 
@@ -8,7 +8,7 @@ Sorcerer are only proficient with simple weapons - lack of training gives them a
 
 ## Class abilities
 
-* Sorcerers have the ability to cast arcane spells spontaneously. They can cast any of their known spells using spell slots of the Spell Tier equal to the . They do not have to prepare their spells, but their list of known spells is limited.
+* Sorcerers have the ability to cast arcane spells spontaneously. (TODO)
 
 ## Progression charts
 

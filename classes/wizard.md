@@ -1,6 +1,6 @@
 # Wizard
 
-(TODO: Fluff)
+Wizards are wielders of powerful magic, able to affect reality in a ways that mundane people wouldn't be ever able to.
 
 ## Equipment
 

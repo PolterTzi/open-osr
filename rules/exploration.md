@@ -18,7 +18,7 @@ Encumbered characters move at half the normal rate.
 
 ### Resources
 
-It is important to track the amount of resources during the dungeon exploration.
+It is important to track the amount of resources during the dungeon exploration - especially the time and lightsources. Each torch can last for about an hour (6 exploration turns) before it goes off, while lanterns can provide light for about 3 hours (18 exploration turns) with a single vial of oil.
 
 ### Random encounters
 
@@ -40,6 +40,12 @@ Encumbered characters move at half the normal rate.
 
 ### Random encounters
 
+In wilderness, a random encounter check should be done roughly every four hours of ingame time - the GM should roll a d6 for each of these periods of time, and initiate a random encounter on a roll of 1. On the main, commonly used roads the frequency of the random encounters can be increased at GM's discretion.
+
+Safer areas will often have more traders and peaceful travellers, while the more dangerous ones will often pit player characters in danger. Additionally, random encounters at night are usually more dangerous than the ones at day.
+
 ## Encounters
 
 During exploration periods the adventuring party will often encounter other living beings. They may be some kind of travellers, animals, bandits, monsters - and rarely even a different adventurer party! Whenever an encounter happens, GM will roll for each side whether you noticed each other, as well as roll for the reaction. In many cases you will be able to avoid combat, either via a diplomatic approach or a simple evasive action.
+
+At the start of the encounter, the GM will usually make a reaction roll. The "party face" can affect this roll by applying a positive or a negative modifier to the reaction roll, and the actions undertaken by the adventuring party can provide an additional set of modifiers.

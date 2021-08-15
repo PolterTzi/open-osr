@@ -24,4 +24,4 @@ This system follows the ideas of the Old School Renaissance, and should be compa
 * [Classes](classes/index)
 * [Races](races/index)
 * [Spells](spells/index)
-* [Monsters](monsters/index)
+* [NPCs and Monsters](npcs_and_monsters/index)
