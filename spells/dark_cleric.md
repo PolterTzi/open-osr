@@ -42,7 +42,7 @@
 
 ## Tier 5
 
-* [](desc/) -
+* [Dessurecition](desc/) - Dessurects a target living creature.
 * [](desc/) -
 * [](desc/) -
 * [](desc/) -
